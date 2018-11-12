@@ -1,0 +1,45 @@
+﻿  Source.cpp
+c:\users\tensh\source\repos\opencv_canny\opencv_canny\source.cpp(63): warning C4244: '=': 將 'int' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+c:\users\tensh\source\repos\opencv_canny\opencv_canny\source.cpp(64): warning C4244: '=': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+c:\users\tensh\source\repos\opencv_canny\opencv_canny\source.cpp(66): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+c:\users\tensh\source\repos\opencv_canny\opencv_canny\source.cpp(88): warning C4244: '引數': 將 '_Tp' 轉換為 'const unsigned __int64'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+c:\users\tensh\source\repos\opencv_canny\opencv_canny\source.cpp(150): warning C4244: '=': 將 'int' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+c:\users\tensh\source\repos\opencv_canny\opencv_canny\source.cpp(151): warning C4244: '=': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+c:\users\tensh\source\repos\opencv_canny\opencv_canny\source.cpp(153): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+c:\users\tensh\source\repos\opencv_canny\opencv_canny\source.cpp(180): warning C4244: '引數': 將 '_Tp' 轉換為 'const unsigned __int64'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=float
+          ]
+c:\users\tensh\source\repos\opencv_canny\opencv_canny\source.cpp(39): warning C4101: 's': 未參考的區域變數
+c:\users\tensh\source\repos\opencv_canny\opencv_canny\source.cpp(124): warning C4101: 's': 未參考的區域變數
+c:\users\tensh\source\repos\opencv_canny\opencv_canny\source.cpp(273): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  opencv_canny.vcxproj -> C:\Users\tensh\source\repos\opencv_canny\x64\Debug\opencv_canny.exe
